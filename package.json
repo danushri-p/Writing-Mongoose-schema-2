@@ -5,7 +5,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mongoose": "^8.9.1"
   },
   "version": "1.0.0",
   "description": "## **Overview** This project involves designing a MongoDB schema for a blog application. The schema enables creating, storing, and managing blog posts and comments while ensuring data validation and efficient queries.",
